@@ -1,0 +1,33 @@
+C:\Users\zaaza\source\repos\LessonP2_1\Asteroids\bin\Debug\Asteroids.exe.config
+C:\Users\zaaza\source\repos\LessonP2_1\Asteroids\bin\Debug\Asteroids.exe
+C:\Users\zaaza\source\repos\LessonP2_1\Asteroids\bin\Debug\Asteroids.pdb
+C:\Users\zaaza\source\repos\LessonP2_1\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+C:\Users\zaaza\source\repos\LessonP2_1\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\zaaza\source\repos\LessonP2_1\Asteroids\obj\Debug\Asteroids.exe
+C:\Users\zaaza\source\repos\LessonP2_1\Asteroids\obj\Debug\Asteroids.pdb
+C:\Users\zaaza\source\repos\LessonP2_1\Asteroids\bin\Debug\Images\fon.jpg
+C:\Users\zaaza\source\repos\LessonP2_1\Asteroids\bin\Debug\Images\asteroid.png
+C:\Users\Tatiana\Desktop\курс си шарп 2\LessonP2_1\Asteroids\bin\Debug\Images\asteroid.png
+C:\Users\Tatiana\Desktop\курс си шарп 2\LessonP2_1\Asteroids\bin\Debug\Asteroids.exe.config
+C:\Users\Tatiana\Desktop\курс си шарп 2\LessonP2_1\Asteroids\bin\Debug\Asteroids.exe
+C:\Users\Tatiana\Desktop\курс си шарп 2\LessonP2_1\Asteroids\bin\Debug\Asteroids.pdb
+C:\Users\Tatiana\Desktop\курс си шарп 2\LessonP2_1\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+C:\Users\Tatiana\Desktop\курс си шарп 2\LessonP2_1\Asteroids\obj\Debug\Asteroids.exe
+C:\Users\Tatiana\Desktop\курс си шарп 2\LessonP2_1\Asteroids\obj\Debug\Asteroids.pdb
+C:\Users\Tatiana\Desktop\курс си шарп 2\LessonP2_1\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+C:\Users\Tatiana\Desktop\курс си шарп 2\LessonP2_1\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+C:\Users\Tatiana\Desktop\курс си шарп 2\LessonP2_1\Asteroids\bin\Debug\Images\Background.jpg
+C:\Users\Tatiana\Desktop\курс си шарп 2\LessonP2_1\Asteroids\bin\Debug\Images\comet.png
+C:\Users\Tatiana\Desktop\курс си шарп 2\LessonP2_1\Asteroids\bin\Debug\Images\asteroid_base.png
+C:\Users\Tatiana\Desktop\GeekBrains\Asteroids\Asteroids\bin\Debug\Images\asteroid.png
+C:\Users\Tatiana\Desktop\GeekBrains\Asteroids\Asteroids\bin\Debug\Images\asteroid_base.png
+C:\Users\Tatiana\Desktop\GeekBrains\Asteroids\Asteroids\bin\Debug\Images\background.jpg
+C:\Users\Tatiana\Desktop\GeekBrains\Asteroids\Asteroids\bin\Debug\Images\comet.png
+C:\Users\Tatiana\Desktop\GeekBrains\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+C:\Users\Tatiana\Desktop\GeekBrains\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+C:\Users\Tatiana\Desktop\GeekBrains\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+C:\Users\Tatiana\Desktop\GeekBrains\Asteroids\Asteroids\obj\Debug\Asteroids.csprojAssemblyReference.cache
+C:\Users\Tatiana\Desktop\GeekBrains\Asteroids\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+C:\Users\Tatiana\Desktop\GeekBrains\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.cache
+C:\Users\Tatiana\Desktop\GeekBrains\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+C:\Users\Tatiana\Desktop\GeekBrains\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
